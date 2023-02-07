@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ricosuavvee
-- 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... anything that will help me improve my skills.
 - 📫 How to reach me ...
 
